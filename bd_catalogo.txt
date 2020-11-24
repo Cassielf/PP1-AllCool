@@ -1,0 +1,77 @@
+-----------------------------------DADOS CATÁLOGO---------------------------------------------------
+
+
+ID: C1
+nome: Cerveja Skol Puro Malte
+conteúdo: 269ml
+quantidade: 15 unidades // 1 caixa
+preço: 24,99
+
+ID: C2
+nome: Vinho Quinta do Morgado
+conteúdo: 750ml
+quantidade: 1 (unidade)
+preço: 12,99
+
+ID: C3
+nome: Sidra Cereser 
+conteúdo: 660ml
+quantidade: 1 (unidade)
+preço: 13,99
+
+ID: C4
+nome: Vodka Absolut
+conteúdo: 1L
+quantidade: 1 (unidade)
+preço:109,99
+
+ID: C5
+nome: Corote Blueberry
+conteúdo: 500ml
+quantidade: 1 (unidade)
+preço: 4,98
+
+ID: C6
+nome: Kit Pitú
+conteúdo: 1,6L
+quantidade: 1 (unidade - kit)
+preço: 29,99
+
+ID: C7
+nome: Refrigerante Rochedo
+conteúdo: 2L
+quantidade: 1 (unidade)
+preço: 4,98
+
+ID: C8
+nome: Água Tônica Antártica
+conteúdo: 350ml
+quantidade: 1 (unidade)
+preço: 2,97
+
+ID: C9
+nome: Suco Del Valle 
+conteúdo: 1,5L
+quantidade: 1 (unidade)
+preço: 6,95
+
+--------------------------DADOS DOS PRODUTOS PROMOCIONAIS----------------------------------------------------------
+
+ID: P1
+nome: Cerveja Nossa + Kit Churrasco
+conteúdo: 660ml 
+quantidade: 24 ( unidade - grade )
+preço: 120,00
+
+ID: P2
+nome: Refrigerante São Geraldo
+conteúdo: 2L
+quantidade: 1 (unidade)
+preço: 4,50
+
+ID: P3
+nome: Cachaça Triunfo
+conteúdo: 275ml
+quantidade: 1 (unidade)
+preço: 8,00
+
